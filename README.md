@@ -60,11 +60,11 @@ Welcome to the **share the certificate**! This project streamlines the process o
 6. **Run Scripts**
    - Convert images to PDFs:
      ```bash
-     python image_to_pdf.py
+     python main.py
      ```
-   - Send certificates via email:
+   - Send certificates via email :
      ```bash
-     python send_email.py
+     python main.py
      ```
 
 ---
