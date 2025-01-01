@@ -1,6 +1,15 @@
 # share the certificate
 
+
+<center>
+<img src="https://www.hubspot.com/hs-fs/hubfs/Smiling%20Leo%20Perfect%20GIF.gif?width=893&height=600&name=Smiling%20Leo%20Perfect%20GIF.gif" alt="Minions Celebrating" width="500" />
+</center>
+
+
+
 Welcome to the **share the certificate**! This project streamlines the process of converting images to PDFs and sharing certificates via email. 🚀
+
+
 
 ---
 
